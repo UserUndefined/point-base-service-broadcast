@@ -1,0 +1,23 @@
+{
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "<fill-your-repository-here>",
+  "nativescript": {
+    "id": "com.userundefined.pointbase.service",
+    "tns-android": {
+      "version": "2.2.0"
+    }
+  },
+  "dependencies": {
+    "moment": "^2.15.2",
+    "nativescript-geolocation": "0.0.13",
+    "tns-core-modules": "2.1.0"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.12.0",
+    "babel-types": "6.11.1",
+    "babylon": "6.8.4",
+    "lazy": "1.0.11"
+  }
+}
